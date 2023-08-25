@@ -16,6 +16,6 @@ To acess the project you can dowlownd the arquives here and uploud it in the p5.
 - JavaScript 
 - library p5.js
 
-#Autors
+# Autors
 [Matheus Roberto](https://github.com/Domi-ni)
 
