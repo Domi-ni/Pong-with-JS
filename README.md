@@ -6,7 +6,9 @@
 A recreation of the classic atari game "pong" for two players, made in JavaScript using P5.js.
 To play as left racket use "W" to move up or "S" to move down. To play as right racket use up arrow to move up or the down arrow to move down.
 
-<h3 align center>:heavy_check_mark: Concluded :heavy_check_mark:</h3>
+<h3 align = center>
+  :heavy_check_mark: Concluded :heavy_check_mark:
+</h3>
 
 # 📁 Acess to the project
 
